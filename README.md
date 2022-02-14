@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @skrxxx
+- 👀 I’m interested in python, bitcoin
+- 🌱 I’m currently learning Houses
